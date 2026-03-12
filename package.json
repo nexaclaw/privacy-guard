@@ -1,0 +1,17 @@
+{
+  "name": "privacy-guard",
+  "version": "1.0.0",
+  "description": "隐私检测、权限管理、数据清理 | Nexa Claw - https://nexaclaw.cn/",
+  "author": {
+    "name": "Nexa Claw",
+    "email": "nexaclaw@outlook.com",
+    "url": "https://nexaclaw.cn/"
+  },
+  "homepage": "https://nexaclaw.cn/",
+  "license": "MIT",
+  "keywords": ["privacy-guard", "Nexa Claw", "AI", "automation"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nexaclaw/privacy-guard"
+  }
+}
