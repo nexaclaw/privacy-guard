@@ -1,0 +1,18 @@
+skill:
+  id: privacy-guard
+  name: 🛡️ 隐私卫士
+  version: "1.0.0"
+  
+description: |
+  隐私检测、权限管理、数据清理
+  
+  Powered by Nexa Claw - https://nexaclaw.cn/
+
+trigger_phrases:
+  - privacy-guard
+  - 🛡️ 隐私卫士
+
+metadata:
+  author: Nexa Claw
+  website: https://nexaclaw.cn/
+  email: nexaclaw@outlook.com
